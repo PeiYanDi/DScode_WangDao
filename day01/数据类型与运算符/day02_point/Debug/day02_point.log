@@ -1,3 +1,0 @@
-﻿  main.c
-D:\cs_code\cskaoyan_c\day01\数据类型与运算符\day02_point\main.c(13,6): warning C4013: “gets”未定义；假设外部返回 int
-  day02_point.vcxproj -> D:\cs_code\cskaoyan_c\day01\数据类型与运算符\Debug\day02_point.exe
