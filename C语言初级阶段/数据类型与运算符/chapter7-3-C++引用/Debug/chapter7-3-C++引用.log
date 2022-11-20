@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\cs_code\cskaoyan_c\day01\数据类型与运算符\chapter7-3-C++引用\main.cpp(24,9): warning C4477: “printf”: 格式字符串“%0x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+  chapter7-3-C++引用.vcxproj -> D:\cs_code\cskaoyan_c\day01\数据类型与运算符\Debug\chapter7-3-C++引用.exe
