@@ -1,0 +1,4 @@
+﻿  课时12作业.cpp
+D:\cs_code\cskaoyan_c\oj平台课时作业\课时12作业\课时12作业.cpp(66,13): warning C4101: “q”: 未引用的局部变量
+D:\cs_code\cskaoyan_c\oj平台课时作业\课时12作业\课时12作业.cpp(63): warning C4715: “GetElem”: 不是所有的控件路径都返回值
+  课时12作业.vcxproj -> D:\cs_code\cskaoyan_c\oj平台课时作业\Debug\课时12作业.exe

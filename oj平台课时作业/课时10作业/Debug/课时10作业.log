@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\cs_code\cskaoyan_c\oj平台课时作业\课时10作业\源.cpp(59,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  课时10作业.vcxproj -> D:\cs_code\cskaoyan_c\oj平台课时作业\Debug\课时10作业.exe

@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(线性表的链式表示.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+  线性表的链式表示.vcxproj -> D:\cs_code\cskaoyan_c\C语言中级阶段\Debug\chapter2-2-线性表的链式表示.exe

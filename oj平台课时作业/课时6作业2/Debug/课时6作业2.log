@@ -1,0 +1,4 @@
+﻿  cpp中存在问题.cpp
+D:\cs_code\cskaoyan_c\oj平台课时作业\课时6作业2\cpp中存在问题.cpp(10,17): error C2440: “=”: 无法从“void *”转换为“char *”
+D:\cs_code\cskaoyan_c\oj平台课时作业\课时6作业2\cpp中存在问题.cpp(10,12): message : 从“void*”到指向非“void”的指针的强制转换要求显式类型强制转换
+D:\cs_code\cskaoyan_c\oj平台课时作业\课时6作业2\cpp中存在问题.cpp(16,2): error C3861: “gets”: 找不到标识符
